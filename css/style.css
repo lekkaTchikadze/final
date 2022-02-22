@@ -781,3 +781,7 @@ div.snip1321.hover:after {
 .social-icon {
     margin-top: 30px;
 }
+
+.info-box-wrapper>img {
+    margin: 0 20px;
+}

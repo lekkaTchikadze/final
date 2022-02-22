@@ -354,6 +354,11 @@
 
 
 @media only screen and (max-width: 1000px) {
+    .info-box-wrapper>img {
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+
     .section-wrapper {
         flex-direction: column;
     }
